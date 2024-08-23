@@ -161,7 +161,7 @@ const Home1Portfolio = () => {
                     <div className="eg-card">
                       <div className="card-img">
                         <img
-                          src="assets/img/clients/polxygen-home.webp"
+                          src="assets/img/clients/ploxygen-home.webp"
                           alt=""
                         />
                       </div>
