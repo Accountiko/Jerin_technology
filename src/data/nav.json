@@ -1,0 +1,64 @@
+[
+    {
+        "id": "1",
+        "label": "Home",
+        "link": "/",
+        "icon": false
+       
+    },
+    {
+      "id": "2",
+      "label": "About",
+      "link": "/about",
+      "icon": false
+    },
+    {
+        "id": "3",
+        "label": "Our Services",
+        "link": "/service",
+        "icon": true,
+        "subMenu": [
+            {
+                "id": "1",
+                "label": "website & App development",
+                "link": "/service/web-development"
+            },
+            {
+                "id": "2",
+                "label": "Digital Marketing",
+                "link": "/service/digital-marketing"
+            },
+            {
+                "id": "3",
+                "label": "ERP Software",
+                "link": "/service/erp-software"
+            },
+            {
+                "id": "4",
+                "label": "Brand Marketing",
+                "link": "/service/brand-marketing"
+            }
+           
+        ]
+    },
+    {
+        "id": "4",
+        "label": "Portfolio",
+        "link": "/portfolio",
+        "icon": false
+    },
+  
+    {
+        "id": "5",
+        "label": "Blog",
+        "link": "/blog",
+        "icon": false
+      
+    },
+    {
+        "id": "6",
+        "label": "Contact",
+        "link": "/contact",
+        "icon": false
+    }
+]
