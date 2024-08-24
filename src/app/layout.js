@@ -43,7 +43,7 @@ export default function RootLayout({ children }) {
           type="image/x-icon"
           sizes="16x16"
         />
-        <title>Jerin Technology - Software, SaaS &amp; Digital Agency Template</title>
+        <title>Jerin Technology - Webiste, App &amp; Digital Agency </title>
       </head>
       <body>
         <ScrollProgress />

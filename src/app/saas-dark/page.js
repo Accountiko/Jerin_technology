@@ -14,7 +14,7 @@ import Home3Tools from "@/components/tools/Home3Tools";
 import Home3WorkProcess from "@/components/workProcess/Home3WorkProcess";
 
 export const metadata = {
-  title: "Jerin Technology - Software, SaaS & Digital Agency Template",
+  title: "Jerin Technology - Webiste, App &amp; Digital Agency ",
   icons: {
     icon: "/assets/img/sm-logo.png",
   },

@@ -2,7 +2,7 @@ import MainLayout from "@/components/layout/MainLayout";
 import Home5Workprocess from "@/components/workProcess/Home5Workprocess";
 
 export const metadata = {
-  title: "Jerin Technology - Software, SaaS & Digital Agency Template",
+  title: "Jerin Technology - Webiste, App &amp; Digital Agency ",
   icons: {
     icon: "/assets/img/sm-logo.png",
   },
