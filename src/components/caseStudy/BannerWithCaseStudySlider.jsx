@@ -171,7 +171,7 @@ const BannerWithCaseStudySlider = () => {
                       <div className="card-content">
                         <Link href="/case-study">Startup Company</Link>
                         <h4>
-                          <Link href="/case-study/case-study-details">
+                          <Link href="/case-study">
                             Navigating Growth A Startup Agency Success Story.
                           </Link>
                         </h4>
@@ -181,7 +181,7 @@ const BannerWithCaseStudySlider = () => {
                           collaborative efforts.
                         </p>
                         <Link
-                          href="/case-study/case-study-details"
+                          href="/case-study"
                           className="learn-more-btn"
                         >
                           Learn MORE

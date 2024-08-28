@@ -63,7 +63,7 @@ const Home5Partnerships = () => {
                 </h2>
               </div>
               <div className="total-partner">
-                <a href="about.html">
+                <a href="/about">
                   Almost 10+ Partner we have
                   <svg
                     xmlns="http://www.w3.org/2000/svg"

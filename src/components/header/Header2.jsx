@@ -304,24 +304,20 @@ const Header2 = () => {
                     </svg>
                   </h6>
                   <ul className="social-area">
+                    
                     <li>
-                      <a href="#">
-                        <i className="bi bi-dribbble" /> Dribbble
+                      <a target="_blank" href="https://www.linkedin.com/in/jerin-technology-69a0a5284/">
+                        <i className="bi bi-linkedin" /> Linkedin
                       </a>
                     </li>
                     <li>
-                      <a href="#">
-                        <i className="bi bi-behance" /> Behance
+                      <a target="_blank" href="https://www.instagram.com/jerintechnology/">
+                        <i className="bi bi-instagram" /> Instagram
                       </a>
                     </li>
                     <li>
-                      <a href="#">
-                        <i className="bi bi-pinterest" /> Pinterest
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i className="bi bi-facebook" /> Facebook
+                      <a target="_blank" href="https://x.com/JerinTech">
+                        <i className="bi bi-twitter-x" /> X.com
                       </a>
                     </li>
                   </ul>

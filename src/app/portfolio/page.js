@@ -31,7 +31,7 @@ const PortfolioListPage = () => {
                 <div className="card-content">
                   <span>Client: Accountiko - (India)</span>
                   <h5>
-                    <Link href="/portfolio/portfolio-details">
+                    <Link href="/portfolio">
                     Designing and developing the Accountiko India website.
                     </Link>
                   </h5>
@@ -71,7 +71,7 @@ const PortfolioListPage = () => {
                 <div className="card-content">
                   <span>Client: Accountiko </span>
                   <h5>
-                    <Link href="/portfolio/portfolio-details">
+                    <Link href="/portfolio">
                       Accounitko DashBoard For Indian Complaince 
                     </Link>
                   </h5>
@@ -112,7 +112,7 @@ const PortfolioListPage = () => {
                 <div className="card-content">
                   <span>Client: allthingsbiznes.com</span>
                   <h5>
-                    <Link href="/portfolio/portfolio-details">
+                    <Link href="/portfolio">
                      Dyanmic Webiste for Allthingsbiznes
                     </Link>
                   </h5>
@@ -155,7 +155,7 @@ const PortfolioListPage = () => {
                 <div className="card-content">
                   <span>Client: BiznesMagazine</span>
                   <h5>
-                    <Link href="/portfolio/portfolio-details">
+                    <Link href="/portfolio">
                      Create a Dyanmic Blog application
                     </Link>
                   </h5>
@@ -198,7 +198,7 @@ const PortfolioListPage = () => {
                 <div className="card-content">
                   <span>Client: Arifa Fashions</span>
                   <h5>
-                    <Link href="/portfolio/portfolio-details">
+                    <Link href="/portfolio">
                       E - Comerce Webiste For Fashions
                     </Link>
                   </h5>
